@@ -1,0 +1,9 @@
+node_modules
+app/bower
+dist
+
+*.iml
+
+.idea/
+
+.DS_Store
